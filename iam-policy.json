@@ -1,7 +1,7 @@
 {
   "bindings": [
     {
-      "role": "roles/owner",
+      "role": "roles/storage.objectViewer",
       "members": [
         "serviceAccount:cloudnotes-app@cloudnotes-placeholder-project.iam.gserviceaccount.com"
       ]
